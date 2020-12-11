@@ -6,9 +6,9 @@ Developed using NetBeans 8.2
 
 Technology used is
 
-1. JSP
+>>JSP
 
-2. JavaScript
+>>JavaScript
 
 
 Backend
