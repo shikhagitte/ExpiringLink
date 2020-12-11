@@ -1,6 +1,10 @@
 # ExpiringLink
  
-Objective: Create a expiring link. User gives name as input and 
+*Step 1: User gives name as input and clicks on get details button*
+
+*Step 2: A link appears when the user clicks on the button. Link has expiry of 5 min. If the link is clicked within 5min it should the details like Name and Salary.*
+
+*Step 3: If the link is clicked after 5min it should display "Link Expired".*
 
 Developed using NetBeans 8.2
 
