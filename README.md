@@ -32,7 +32,7 @@ Server
 
 
 
-*Complete code is in the Zip File Named Expiring Link*
+*Complete code is in the Zip File Named ExpiringLink.zip*
 
 
 The link expiry limit is set for 5 sec it can be changed to 5 min by setting limit as 5 * 60 * 1000.
